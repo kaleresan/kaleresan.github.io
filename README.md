@@ -11,5 +11,5 @@ Neuer Absatz:  abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc a
 -  mno
 -  p
 
-- [] Aufgabe 1
+- [ ] Aufgabe 1
 - [x] aufgabe 2
